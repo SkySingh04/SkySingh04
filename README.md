@@ -1,4 +1,4 @@
-# 💫 About Me: ![](https://komarev.com/ghpvc/?username=mohit-nagaraj&label=Profile+views&style=for-the-badge&color=green)
+# 💫 About Me: ![](https://komarev.com/ghpvc/?username=Akash-Singh04&label=Profile+views&style=for-the-badge&color=green)
 
 - 🔭 I’m currently working on Web Development And Machine Learning.
 - 🌱 I’m currently learning Web Sockets And Advanced State Management.
