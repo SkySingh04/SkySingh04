@@ -31,7 +31,7 @@
    </tr>
 </table><table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash-Singh04j&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash-Singh04&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash-Singh04&theme=aura_dark"></td>
   </tr>
 </table>
