@@ -1,9 +1,9 @@
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=Akash-Singh04&label=Profile+views&style=for-the-badge&color=green)
 
-- 🔭 I’m currently working on Full Stack Web Development And Machine Learning.
+- 🔭 I’m currently working on Full Stack Web Development And DevOps.
 - 🌱 I’m currently learning Web Sockets And Advanced State Management.
-- 👯 I’m looking to collaborate on Full Stack Web Developement and ML projects.
-- 🤔 I’m looking for help with Java SpringBoot and Redux .
+- 👯 I’m looking to collaborate on Full Stack Web Developement and Devops projects.
+- 🤔 I’m looking for help with Prisma and Redux .
 - ⚡ Hobbies: Public Speaking.
 
 
