@@ -1,8 +1,8 @@
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=Akash-Singh04&label=Profile+views&style=for-the-badge&color=green)
 
-- 🔭 I’m currently working on Full Stack Web Development And DevOps.
+- 🔭 I’m currently working on Golang backend And DevOps.
 - 🌱 I’m currently learning Rust and GoLang.
-- 👯 I’m looking to collaborate on Full Stack Web Developement and Devops projects.
+- 👯 I’m looking to collaborate on Rust, Golang and Devops projects.
 - 🤔 I’m looking for help with Rust and Kubernetes.
 - ⚡ Hobbies: Public Speaking.
 
