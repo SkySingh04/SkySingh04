@@ -37,4 +37,6 @@
   </tr>
 </table>
 
+[![An image of @harshjosh361's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skysingh04)](https://holopin.io/@skysingh04)
+
 
