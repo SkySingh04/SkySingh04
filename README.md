@@ -36,7 +36,5 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkySingh04&theme=aura_dark"></td>
   </tr>
 </table>
-[![An image of @skysingh04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skysingh04)](https://holopin.io/@skysingh04)
-
 
 
