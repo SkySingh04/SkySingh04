@@ -1,6 +1,6 @@
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=SkySingh04&label=Profile+views&style=for-the-badge&color=green)
 
-- 🔭 I’m currently working on Golang backend And DevOps.
+- 🔭 I’m currently working on Golang Rust And DevOps.
 - 🌱 I’m currently learning Rust and GoLang.
 - 👯 I’m looking to collaborate on Rust, Golang and Devops projects.
 - 🤔 I’m looking for help with Rust and Kubernetes.
@@ -8,7 +8,7 @@
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kind.of.akash/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-singh-a57081253/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kind_Of_Akash) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kind.of.akash/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skysingh04)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skysingh04) 
 
 
 ### ⚒️ Tech Stack:
