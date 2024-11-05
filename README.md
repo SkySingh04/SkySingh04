@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Rust and GoLang.
 - 👯 I’m looking to collaborate on Rust, Golang and Devops projects.
 - 🤔 I’m looking for help with Rust and Kubernetes.
-- ⚡ Hobbies: Public Speaking.
+- ⚡ Hobbies: Public Speaking, Writing Blogs
+
+  ### I write blogs on [Dev.to](https://dev.to/skysingh04) , check it out! 
 
 
 ### 🌐 Socials:
