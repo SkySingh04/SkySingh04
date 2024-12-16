@@ -1,12 +1,8 @@
-### 🌟 About Me  
-![](https://komarev.com/ghpvc/?username=SkySingh04&label=Profile+views&style=for-the-badge&color=green)  
+### 🌟 About Me ![](https://komarev.com/ghpvc/?username=SkySingh04&label=Profile+views&style=for-the-badge&color=green)  
 
 - 🔭 Currently exploring **Golang**, **Rust**, and **DevOps**.  
 - ⚡ I enjoy **public speaking** and **writing blogs**.
 - 📖 Check out my blogs on [Dev.to](https://dev.to/skysingh04)!  
-
-### 🌐Find Me on the internet:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kind.of.akash/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skysingh04)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skysingh04) 
 
 ### 💼 Experience  
 
@@ -16,6 +12,9 @@
 - **Technical Trainer** at **SwipeGen**  
 - **Full Stack Developer** at **BoleSale**  
 - **Full Stack Trainer** at **CodingZen**  
+
+### 🌐Find Me on the internet:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kind.of.akash/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skysingh04)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skysingh04) 
 
 # 📊 GitHub Stats:
 <table>
