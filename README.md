@@ -13,8 +13,7 @@
 - **Full Stack Developer** at **BoleSale**  
 - **Full Stack Trainer** at **CodingZen**  
 
-### 🌐Find Me on the internet:
-[![Linktr](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/skysingh04)
+### 🌐Find Me on the internet: [![Linktr](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/skysingh04)
 
 # 📊 GitHub Stats:
 <table>
