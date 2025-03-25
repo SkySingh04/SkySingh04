@@ -6,6 +6,7 @@
 
 ### 💼 Experience  
 
+- **LFX Mentee 2025** at **LitmusChaos**
 - **Devops Engineer** at **Vance**  
 - **Backend Engineer** at **CloudSek**  
 - **Google Summer Of Code 2024** at **Keploy**  
