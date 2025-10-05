@@ -4,8 +4,10 @@
 - ⚡ I enjoy **public speaking** and **writing blogs**.
 - 📖 Check out my blogs on [Dev.to](https://dev.to/skysingh04)!  
 
-### 💼 Experience  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="33d7b8d2-56e1-4306-84cb-611798ee73c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+### 💼 Experience  
+- **Devops Engineer** at FinalRoundAI
 - **LFX Mentee 2025** at **LitmusChaos**
 - **Devops Engineer** at **Vance**  
 - **Backend Engineer** at **CloudSek**  
