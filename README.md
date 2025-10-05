@@ -4,10 +4,6 @@
 - ⚡ I enjoy **public speaking** and **writing blogs**.
 - 📖 Check out my blogs on [Dev.to](https://dev.to/skysingh04)!  
 
-<a href="https://www.credly.com/badges/33d7b8d2-56e1-4306-84cb-611798ee73c5">
-  <img src="https://github.com/user-attachments/assets/1aaccbaa-fe66-4e6f-8189-64100c93ba30" alt="KCNA" width="150" height="150" />
-</a>
-
 
 ### 💼 Experience  
 - **Devops Engineer** at FinalRoundAI
